@@ -1,4 +1,4 @@
-FROM dockcross/base:latest
+FROM dockcross/linux-armv7
 MAINTAINER Matt McCormick <matt.mccormick@kitware.com>
 
 ENV DEFAULT_DOCKCROSS_IMAGE thewtex/opengl
