@@ -1,11 +1,11 @@
 # Docker organization to pull the images from
-ORG = thewtex
+ORG = kroschu
 
 # Name of image
 IMAGE = opengl
 
 # Docker TAG
-TAG = debian
+TAG = deb-armhf
 
 build:
 	docker build \
